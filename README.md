@@ -9,11 +9,17 @@ This synthesizer is completely free to use, and I encourage you to experiment wi
 ## **Features**
 
 🎹 MIDI-Compatible: Integrates seamlessly with MIDI controllers.
+
 🎛️ Three FM Operators: Flexible modulation for rich sound design.
+
 🗂️ Preset Bank: Save and load your favorite sounds.
+
 📊 Visual Displays:
+
   -Spectrum Analyzer: Real-time frequency visualization.
+  
   -Waveform Display: View the output waveform in real-time.
+  
 🔊 Exported as a VST Plugin: Compatible with most DAWs.
 
 ## **Installation**
